@@ -1,0 +1,22 @@
+{
+  "temples": [
+    {
+      "name": "abc",
+      "description" : "lorem text here",
+      "location": "dubai",
+      "image": "first.jpg"
+    },
+    {
+      "name": "def",
+      "description" : "lorem text here",
+      "location": "dubai",
+      "image": "first.jpg"
+    },
+    {
+      "name": "ghi",
+      "description" : "lorem text here",
+      "location": "dubai",
+      "image": "first.jpg"
+    }
+  ]
+}

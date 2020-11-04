@@ -1,0 +1,25 @@
+{
+  "classes": [
+    {
+      "class_name": "abc",
+      "template_id" : 1,
+      "image": "first.jpgz",
+      "start": "09-10-2020",
+      "end" : "11-10-2020"
+    },
+    {
+      "class_name": "def",
+      "template_id" : 2,
+      "image": "first.jpgz",
+      "start": "09-10-2020",
+      "end" : "11-10-2020"
+    },
+    {
+      "class_name": "ghi",
+       "template_id" : 3,
+      "image": "first.jpgz",
+      "start": "09-10-2020",
+      "end" : "11-10-2020"
+    }
+  ]
+}

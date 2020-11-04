@@ -1,0 +1,19 @@
+{
+  "shops": [
+    {
+      "name": "abc",
+      "location" : "84 Main Collins Street New York",
+      "image": "first.jpg"
+    },
+    {
+      "name": "abc",
+      "location" : "84 Main Collins Street New York",
+      "image": "first.jpg"
+    },
+    {
+      "name": "abc",
+      "location" : "84 Main Collins Street New York",
+      "image": "first.jpg"
+    }
+  ]
+}
